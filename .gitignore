@@ -1,0 +1,10 @@
+__pycache__/
+.vacme/
+*.bak
+logs/
+.vscode/
+azure
+other/
+webdriver/
+.devcontainer/
+
